@@ -21,7 +21,7 @@ output = "File"
 path = "./data/logs"
 
 [stat]
-window_sec = 1
+window_sec = 60
 
 [[stat.pick]]
 key = "pick_stat"
